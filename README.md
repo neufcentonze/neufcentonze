@@ -4,4 +4,3 @@
 <p align="center">
 Discord : Neufcentonze#0911
 </p>
-<script>alert("test")</script>
